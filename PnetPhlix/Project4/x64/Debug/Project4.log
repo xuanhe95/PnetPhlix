@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+UserDatabase.cpp(37,9): warning : unused variable 'num' [-Wunused-variable]
+  Project4.vcxproj -> C:\Users\zhang\Documents\Github\PnetPhlix\PnetPhlix\x64\Debug\PnetPhlix.exe
