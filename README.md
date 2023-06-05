@@ -1,7 +1,7 @@
 <h1><p align="center"> 🍿️ PnetPhlix 🍿️ </p></h1>
 
 PnetPhlix是一个C++编写的电影推荐系统，可以根据用户的历史观看记录推荐新的电影。   
-PnetPhlix是 [UCLA Winter CS 32](http://web.cs.ucla.edu/classes/winter23/cs32/syllabus.html) 的课程作业的一部分。[项目文档要求在此](spec.pdf)。     
+PnetPhlix是 [UCLA Winter CS 32](http://web.cs.ucla.edu/classes/winter23/cs32/syllabus.html) 的课程作业的一部分。[详细项目文档在此](spec.pdf)。     
 我很有幸参与了课程，感谢David Smallberg教授及Carey Nachenberg教授的出色课程设计。  
 
 ## 💻 程序设计
